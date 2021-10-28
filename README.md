@@ -1,4 +1,4 @@
-# Desafio WedClub 2021 - Backend
+# Desafio WedClub 2021 - Frontend
 
 O desafio consiste em criar uma solução que envolva uma API REST com Node.js (backend) e uma aplicação para CRUD de usuários em React.js (frontend).
 
